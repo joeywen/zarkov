@@ -10,3 +10,9 @@ Reference
 1、http://blog.pythonisito.com/2011/07/zarkov-is-lightweight-map-reduce.html                                             
 2、http://blog.pythonisito.com/2011/07/zarkov-is-event-logger.html                                                       
 3、http://www.slideshare.net/rick446/realtime-analytics-using-mongodb-python-gevent-and-zeromq
+
+Author
+======
+
+Rick Copeland,
+http://www.slideshare.net/rick446?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
